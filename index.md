@@ -5,3 +5,6 @@
 ```
 here we go
 ```
+- [x] Buy concert ticket 
+- [x] Rally friends
+- [ ] Have a blast
